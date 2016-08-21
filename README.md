@@ -7,7 +7,7 @@ A collections of examples illustrating [WebSockets](https://tools.ietf.org/html/
 To start up the server, run
 
 ```
-mvn spring-boot:run
+./gradlew bootRun
 ```
 
 An example node client is provided which sends messages to the server at "/marco"
