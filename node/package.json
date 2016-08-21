@@ -1,0 +1,15 @@
+{
+  "name": "websocket-examples",
+  "version": "1.0.0",
+  "description": "example websocket client",
+  "main": "marco_polo.js",
+  "dependencies": {
+    "websocket": "^1.0.23"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
