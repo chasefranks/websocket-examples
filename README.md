@@ -7,13 +7,13 @@ A collections of examples illustrating [WebSockets](https://tools.ietf.org/html/
 To start up the server, run
 
 ```
-./gradlew bootRun
+./gradlew basic-websockets:bootRun
 ```
 
 An example node client is provided which sends messages to the server at "/marco"
 
 ```bash
-cd node
+cd basic-websockets/node
 npm install
 node marco_polo.js
 ```

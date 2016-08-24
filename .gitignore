@@ -1,7 +1,8 @@
 .classpath
 .settings
 .project
-node/node_modules
+node_modules
 bin
 build
 .gradle
+!gradle-wrapper.jar
