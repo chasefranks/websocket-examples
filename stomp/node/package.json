@@ -1,0 +1,15 @@
+{
+  "name": "stomp",
+  "version": "0.0.0",
+  "description": "Generated with Eclipse npm Tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Error: no test specified' && exit 1"
+  },
+  "author": "Chase Franks",
+  "license": "ISC",
+  "dependencies": {
+    "stompjs": "^2.3.3",
+    "websocket": "^1.0.23"
+  }
+}
